@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi this is master
+=======
+this is f1
+>>>>>>> f1
